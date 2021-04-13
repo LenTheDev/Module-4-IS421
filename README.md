@@ -19,7 +19,7 @@ In this module you learn to setup your .net Core 3 WebAPI project and configure 
 
 
 ```json
- {
+    {
         "date": "2021-04-14T06:52:40.5639598-04:00",
         "temperatureC": 20,
         "temperatureF": 67,
