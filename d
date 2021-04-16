@@ -1,0 +1,17 @@
+[33mcommit f3bcb8edf266684435f066cb7653bfd342d0ab5d[m[33m ([m[1;36mHEAD -> [m[1;32mModule-5[m[33m, [m[1;33mtag: v1-mod-5[m[33m, [m[1;31morigin/Module-5[m[33m)[m
+Author: LenTheDev <lhl7@njit.edu>
+Date:   Fri Apr 16 05:38:56 2021 -0400
+
+    Task: Module 5
+
+[33mcommit 95b3207ddb311141c7e716186283cf982e088509[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: LenTheDev <lhl7@njit.edu>
+Date:   Tue Apr 13 07:04:07 2021 -0400
+
+    Add project files.
+
+[33mcommit bbc8a47ce550620cffdd47d9dd0917154e7cefb3[m
+Author: LenTheDev <lhl7@njit.edu>
+Date:   Tue Apr 13 07:04:05 2021 -0400
+
+    Add .gitignore and .gitattributes.
